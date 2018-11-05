@@ -1,0 +1,66 @@
+/*
+Theme Name: screenrchild
+Description: Theme enfant de Vincent
+Author: Vincent
+Author URI: https://localhost:8888;
+Template: screenr 
+Version: 0.1.0
+*/
+
+.site-branding
+{
+	width: 20%;
+}
+
+.card-group .card:first-child 
+{
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    background-color: white;
+}
+
+.card-group .card:not(:first-child):not(:last-child)
+{
+	background-color: white;
+}
+
+.search-field
+{
+	padding: 8px 8px 8px 10px!important;
+}
+.search-submit
+{
+	line-height: 4px!important;
+}
+.searchnav {
+	display: none;
+}
+
+@media screen and (min-width: 1140px) 
+{
+	#site-navigation .ivory-search-form
+	{
+		position: relative;
+		left: 100px;
+	}
+}
+
+header .container
+{
+	margin-left: 1%;
+	max-width: 91%;
+}
+
+ @keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+.fadeIn {
+animation-name: fadeIn;
+}

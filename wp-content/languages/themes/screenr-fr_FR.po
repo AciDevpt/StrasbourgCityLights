@@ -1,0 +1,1354 @@
+# Translation of Themes - Screenr in French (France)
+# This file is distributed under the same license as the Themes - Screenr package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-08-17 07:08:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Themes - Screenr\n"
+
+#. Description of the plugin/theme
+msgid "Big - Bold and stylish, Screenr is a multiuse fullscreen theme well suited for business, portfolio, digital agency, product showcase, freelancers and everyone else who appreciate good design. Also with the flexible of the header and navigation, it can be use for one page or multiple pages website. The theme was built on Bootstrap 4, so you know it contains clean, precise code that makes for a highly streamlined site. (Live preview : http://www.famethemes.com/preview/?theme=Screenr)"
+msgstr "Grand et élégant, Screenr est un thème en plein écran parallaxe polyvalent bien adapté pour les entreprises, portfolios, agences digitales, indépendants et tous ceux qui apprécient la bonne conception. Avec son en-tête flexible et sa navigation, il peut aussi être utilisé pour une site en une page ou de plusieurs pages. Le thème a été construit avec Bootstrap 4 qui contient du code propre et précis. (Prévisualisation : http://www.famethemes.com/preview/?theme=Screenr)"
+
+#: inc/customizer.php:568 inc/customizer.php:598
+msgid "No Sidebar"
+msgstr "Aucune barre latérale"
+
+#: inc/customizer.php:602
+msgid "Select your shop layout"
+msgstr "Sélectionnez votre mise en page de boutique"
+
+#: inc/customizer.php:594
+msgid "Shop Layout"
+msgstr "Mise en page de boutique"
+
+#: inc/customizer.php:580
+msgid "Shop Layout Settings"
+msgstr "Réglages de mise en page de boutique"
+
+#: functions.php:160
+msgid "Shop"
+msgstr "Boutique"
+
+#: inc/dashboard.php:538
+msgid "How can I contribute?"
+msgstr "Comment puis-je contribuer ?"
+
+#: inc/dashboard.php:344
+msgid "Create a support ticket"
+msgstr "Créer un ticket de support"
+
+#: inc/dashboard.php:521
+msgid "Hey, you will need to install and activate the %1$s plugin first."
+msgstr "Hé, vous devez installer et activer l’extension %1$s au préalable."
+
+#: inc/dashboard.php:406
+msgid "Recommend Plugins"
+msgstr "Extensions recommandées"
+
+#: inc/dashboard.php:228
+msgid "Details"
+msgstr "Détails"
+
+#: inc/dashboard.php:186 inc/dashboard.php:483
+msgid "Install Now"
+msgstr "Installer maintenant"
+
+#: inc/customizer.php:1846
+msgid "Grid"
+msgstr "Grille"
+
+#: inc/customizer.php:1827
+msgid "Full Width"
+msgstr "Pleine largeur"
+
+#: inc/customizer.php:1821
+msgid "Layout"
+msgstr "Mise en page"
+
+#: inc/customizer.php:1785
+msgid "Page"
+msgstr "Page"
+
+#: inc/customizer.php:1780
+msgid "Select Gallery Source"
+msgstr "Sélectionnez la source de la galerie"
+
+#: inc/customizer.php:1753
+msgid "Section Description"
+msgstr "Description de la section"
+
+#: inc/customizer.php:1737
+msgid "Section Subtitle"
+msgstr "Sous-titre de la section"
+
+#: inc/customizer.php:1722
+msgid "Section Title"
+msgstr "Titre de la section"
+
+#: inc/customizer.php:1702
+msgid "gallery"
+msgstr "galerie"
+
+#: inc/customizer.php:1666 inc/customizer.php:1717
+#: section-parts/section-gallery.php:3
+msgid "Gallery"
+msgstr "Galerie"
+
+#: functions.php:107
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: inc/customizer.php:1880
+msgid "Row Height"
+msgstr "Hauteur de ligne"
+
+#: inc/customizer.php:1849
+msgid "Justified"
+msgstr "Justifié"
+
+#: inc/customizer.php:1848
+msgid "Slider"
+msgstr "Diaporama"
+
+#: inc/customizer.php:1847
+msgid "Carousel"
+msgstr "Caroussel"
+
+#: inc/customizer.php:1841
+msgid "Display"
+msgstr "Affichage"
+
+#: inc/customizer.php:1807
+msgid "Select a page which have content contain [gallery] shortcode."
+msgstr "Sélectionnez une page qui contient un code court [gallery]."
+
+#: inc/customizer.php:1802
+msgid "Select Gallery Page"
+msgstr "Sélectionnez la page de galerie"
+
+#: inc/customizer.php:1896
+msgid "Layout columns"
+msgstr "Mise en page des colonnes"
+
+#: inc/customizer.php:1921
+msgid "Number items"
+msgstr "Nombre d’éléments"
+
+#: inc/customizer.php:1864
+msgid "Item Spacing"
+msgstr "Espace entre les éléments"
+
+#: inc/dashboard.php:523
+msgid "FameThemes Demo Importer"
+msgstr "Import de démo FameThemes"
+
+#: inc/customizer.php:1935
+msgid "Enable Lightbox"
+msgstr "Activer la visionneuse"
+
+#: inc/customizer.php:1850
+msgid "Masonry"
+msgstr "Maçonnerie"
+
+#: inc/customizer.php:1826
+msgid "Default, inside container"
+msgstr "Par défaut, dans le conteneur"
+
+#: inc/customizer.php:562
+msgid "Site Layout"
+msgstr "Mise en page du site"
+
+#: inc/customizer.php:566 inc/customizer.php:599
+msgid "Right Sidebar"
+msgstr "Barre à droite"
+
+#: inc/customizer.php:567 inc/customizer.php:600
+msgid "Left Sidebar"
+msgstr "Barre à gauche"
+
+#: inc/customizer.php:570
+msgid "Select your site layout"
+msgstr "Sélectionnez la mise en page de votre site"
+
+#: inc/customizer.php:733
+msgid "Footer widgets heading"
+msgstr "En-têtes de widgets de pied"
+
+#: inc/customizer.php:769
+msgid "Footer widgets link color"
+msgstr "Couleur de lien  de widgets de pied"
+
+#: inc/customizer.php:787
+msgid "Footer widgets link hover color"
+msgstr "Couleur de lien  de widgets de pied au survol"
+
+#: inc/customizer.php:805
+msgid "Footer copyright border top color"
+msgstr "Couleur de bordure haute de copyright de pied"
+
+#: inc/dashboard.php:154
+msgid "Save time by import our demo data, your website will be set up and ready to customize in minutes. %s"
+msgstr "Gagnez du temps en important nos données de démo, votre site sera configuré et prêt à être personnalisé en quelques minutes. %s"
+
+#: inc/dashboard.php:154
+msgid "Import Demo Data"
+msgstr "Import des données de démo"
+
+#: inc/dashboard.php:315
+msgid "One Click Demo Import"
+msgstr "Import de démo en un clic"
+
+#: inc/customizer.php:93
+msgid "Upgrade Now"
+msgstr "Mise à niveau"
+
+#: inc/customizer.php:118
+msgid "Styling"
+msgstr "Style"
+
+#: inc/customizer.php:137
+msgid "Primary color"
+msgstr "Couleur principale"
+
+#: inc/customizer.php:148
+msgid "Typography"
+msgstr "Typographie"
+
+#: inc/customizer.php:151 inc/customizer.php:2886 inc/customizer.php:2896
+#: inc/customizer.php:2906 inc/customizer.php:2916 inc/customizer.php:2926
+msgid "Go Plus"
+msgstr "Go Plus"
+
+#: inc/customizer.php:857
+msgid "Change Footer Copyright Text and Hide Theme Author Link"
+msgstr "Changer le texte copyright de pied et masquer le lien d’auteur du thème"
+
+#: inc/customizer.php:859
+msgid "Upgrade to %1s in order to change site footer copyright information and hide theme author link via Customizer."
+msgstr "Mettez à jour en %s d’abord pour changer le copyright de pied et masquer le lien d{auteur du thème depuis la personnalisation."
+
+#: inc/customizer.php:872 inc/customizer.php:889
+msgid "Custom CSS"
+msgstr "CSS personnalisé"
+
+#: inc/customizer.php:907
+msgid "Frontpage Sections Order & Styling"
+msgstr "Ordre & Style de sections d’accueil"
+
+#: inc/customizer.php:922
+msgid "Drag & Drop Section Orders"
+msgstr "Glisser/déposer de section"
+
+#: inc/customizer.php:924
+msgid "Check out the %1s version for full control over the frontpage SECTIONS ORDER!"
+msgstr "Vérifiez la version %1$s pour un contrôle total de l’ordre des sections de la page d’accueil"
+
+#: inc/customizer.php:939
+msgid "Check out the %1s version for full control over the section styling which includes background color, image, video, parallax effect, custom style and more ..."
+msgstr "Vérifiez la version %1$s pour un contrôle total du style des sections incluant la couleur d’arrière plan, image, vidéo, effet parallax, sytle personnalisé etc..."
+
+#: inc/customizer.php:2883
+msgid "Projects"
+msgstr "Projets"
+
+#: inc/customizer.php:2893
+msgid "Testimonials"
+msgstr "Témoignages"
+
+#: inc/customizer.php:2903
+msgid "Team"
+msgstr "Équipe"
+
+#: inc/customizer.php:2913
+msgid "Pricing"
+msgstr "Tarification"
+
+#: inc/customizer.php:2923
+msgid "Call To Action"
+msgstr "Appel à Action"
+
+#: inc/dashboard.php:316
+msgid "Contribute"
+msgstr "Contribuer"
+
+#: inc/dashboard.php:541
+msgid "Found a bug? Want to contribute with a fix or create a new feature?"
+msgstr "Vous avez trouvé un bug ? Vous voulez contribuer avec un fix ou créer une nouvelle fonction ?"
+
+#: inc/dashboard.php:542
+msgid "GitHub is the place to go!"
+msgstr "GitHub est l’endroit où aller !"
+
+#: inc/dashboard.php:544
+msgid "Screenr on GitHub"
+msgstr "Screenr sur GitHub"
+
+#: inc/dashboard.php:550
+msgid "Are you a polyglot? Want to translate Screenr into your own language?"
+msgstr "Vous êtes polyglotte ? Vous voulez traduire Screenr dans votre langue ?"
+
+#: inc/dashboard.php:551
+msgid "Get involved at WordPress.org."
+msgstr "Impliquez vous sur WordPress.org"
+
+#: inc/dashboard.php:553
+msgid "Translate Screenr"
+msgstr "Traduire Screenr"
+
+#: inc/dashboard.php:559
+msgid "Are you enjoying Screenr theme?"
+msgstr "Vous aimez le thème Screenr ?"
+
+#: inc/dashboard.php:560
+msgid "Rate our theme on <a target=\"_blank\" href=\"https://wordpress.org/support/theme/screenr/reviews/?filter=5#postform\">WordPress.org</a>. We'd really appreciate it!"
+msgstr "Notez notre thème sur <a target=\"_blank\" href=\"https://wordpress.org/support/theme/screenr/reviews/?filter=5#postform\">WordPress.org</a>. Nous apprécierions cela !"
+
+#: inc/customizer.php:1053
+msgid "Upgrade to %1$s to be able to add more items (display as a slider) and self-hosted background video option."
+msgstr "Mettez à jour vers %1$s pour pouvoir ajouter plus d’éléments (affichés en diaporama) et une option de vidéo d’arrière plan auto-hébergée."
+
+#: inc/customizer.php:91 inc/customizer.php:1053 inc/customizer.php:1306
+#: inc/customizer.php:2075 inc/customizer.php:2269 inc/customizer.php:2460
+#: inc/customizer.php:2854
+msgid "Screenr Plus"
+msgstr "Screenr Plus"
+
+#: inc/customizer.php:1056
+msgid "Content"
+msgstr "Contenu"
+
+#: inc/customizer.php:1113
+msgid "Enable parallax effect"
+msgstr "Activer l'effet parallaxe"
+
+#: inc/customizer.php:1115
+msgid "Check this box to enable parallax effect for hero section."
+msgstr "Cochez cette case pour activer l’effet paralla pour la section hero."
+
+#: inc/customizer.php:1306 inc/customizer.php:2075 inc/customizer.php:2269
+#: inc/customizer.php:2460 inc/customizer.php:2854
+msgid "Upgrade to %1$s to be able to add more items and unlock other premium features!"
+msgstr "Mettez à jour vers %1$s pour pouvoir ajouter plus d’éléments et déploquer les autres fonctionnalités premium !"
+
+#: inc/customizer.php:1587 section-parts/section-videolightbox.php:4
+msgid "Parallax & Video Lightbox - Perfected"
+msgstr "Lightbox vidéo & Parallax - Parfait"
+
+#: inc/dashboard.php:302
+msgid "Big - Bold and stylish, Screenr is a multiuse parallax fullscreen theme well suited for business, portfolio, digital agency, freelancers and everyone else who appreciate good design."
+msgstr "Grand - gras et élégant, Screenr est un thème en plein écran parallaxe polyvalent bien adapté pour les entreprises, portfolios, agences digitales, indépendants et tous ceux qui apprécient la bonne conception."
+
+#: inc/dashboard.php:305
+msgid "Be sure to check out the %1s or %2s to see some of the possibilities."
+msgstr "Assurez vous de vérifier %1$s ou %2$s pour voir certaines des possibilités."
+
+#: inc/extras.php:739
+msgid "%s 404 Not Found!"
+msgstr "%s 404 introuvable !"
+
+#: inc/extras.php:896
+msgid "Copyright %1$s %2$s %3$s. All Rights Reserved."
+msgstr "Copyright &copy; %1$s %2$s. Tous droits réservés."
+
+#: inc/extras.php:899
+msgid "%1$s by %2$s"
+msgstr "%1$s par %2$s"
+
+#. Template Name of the plugin/theme
+msgid "Full-Width Page"
+msgstr "Page en pleine largeur"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Oups, la page ne peut pas être trouvée."
+
+#: 404.php:26
+msgid "It looks like nothing was found at this location. Maybe try one of the links below or a search?"
+msgstr "Il semble que rien ne soit trouvé à cet emplacement. Peut-être qu’un des liens suivants vous aiderait ."
+
+#: comments.php:31
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "Une pensée sur &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s pensées sur &ldquo;%2$s&rdquo;"
+
+#: comments.php:40 comments.php:60
+msgid "Comment navigation"
+msgstr "Navigation de commentaire"
+
+#: comments.php:43 comments.php:63
+msgid "Older Comments"
+msgstr "Commentaires plus anciens"
+
+#: comments.php:44 comments.php:64
+msgid "Newer Comments"
+msgstr "Commentaires plus récents"
+
+#: comments.php:77
+msgid "Comments are closed."
+msgstr "Commentaires fermés."
+
+#: functions.php:66
+msgid "Primary"
+msgstr "Principal"
+
+#: functions.php:148
+msgid "Sidebar"
+msgstr "Barre"
+
+#: functions.php:172
+msgid "Footer 1"
+msgstr "Pied 1"
+
+#: functions.php:181
+msgid "Footer 2"
+msgstr "Pied 2"
+
+#: functions.php:190
+msgid "Footer 3"
+msgstr "Pied 3"
+
+#: functions.php:199
+msgid "Footer 4"
+msgstr "Pied 4"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:303
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Montserrat, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:309
+msgctxt "Montserrat font: on or off"
+msgid "on"
+msgstr "on"
+
+#: header.php:25
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: header.php:43
+msgid "Menu"
+msgstr "Menu"
+
+#: inc/class-slider.php:68 inc/extras.php:877
+msgid "Your business, your website"
+msgstr "Votre entreprise, votre site"
+
+#: inc/class-slider.php:69
+msgid "Screenr is a multiuse fullscreen WordPress theme"
+msgstr "Screenr est un thème WordPress polyvalent en plein écran"
+
+#: inc/class-slider.php:70 inc/extras.php:879
+msgid "Get Started"
+msgstr "Commence"
+
+#: inc/class-slider.php:70 inc/extras.php:880
+msgid "Contact Now"
+msgstr "Nous contacter"
+
+#: inc/customizer-controls.php:298 inc/customizer-controls.php:426
+msgid "Item"
+msgstr "Élément"
+
+#: inc/customizer-controls.php:407
+msgid "Add an item"
+msgstr "Ajout d’élément"
+
+#: inc/customizer-controls.php:547 inc/customizer-controls.php:561
+#: inc/customizer-controls.php:574
+msgid "Remove"
+msgstr "Retirer"
+
+#: inc/customizer-controls.php:548
+msgid "Add"
+msgstr "Ajout"
+
+#: inc/customizer-controls.php:548
+msgid "Change"
+msgstr "Changer"
+
+#: inc/customizer-controls.php:576
+msgid "Close"
+msgstr "Fermer"
+
+#: inc/customizer.php:29
+msgid "Select page"
+msgstr "Sélectionner une page"
+
+#: inc/customizer.php:44
+msgid "Hide site title"
+msgstr "Masquer le titre du site"
+
+#: inc/customizer.php:60
+msgid "Hide site tagline"
+msgstr "Masquer le slogan du site"
+
+#: inc/customizer.php:107
+msgid "Theme Options"
+msgstr "Options du thème"
+
+#: inc/customizer.php:162
+msgid "Header"
+msgstr "En-tête"
+
+#: inc/customizer.php:178
+msgid "Header style"
+msgstr "Style d’en-tête"
+
+#: inc/customizer.php:181
+msgid "Default"
+msgstr "Par défaut"
+
+#: inc/customizer.php:182
+msgid "Fixed"
+msgstr "Fixé"
+
+#: inc/customizer.php:183
+msgid "Fixed & Transparent"
+msgstr "Fixé & Transparent"
+
+#: inc/customizer.php:199 inc/customizer.php:266 inc/customizer.php:1350
+msgid "Background Color"
+msgstr "Couleur d’arrière plan"
+
+#: inc/customizer.php:215 inc/customizer.php:282
+msgid "Menu Link Color"
+msgstr "Couleur de lien de menu"
+
+#: inc/customizer.php:230 inc/customizer.php:297
+msgid "Menu Link Hover/Active Color"
+msgstr "Couleur lien au survol / Couleur active"
+
+#: inc/customizer.php:246 inc/customizer.php:329
+msgid "Menu Link Hover/Active BG Color"
+msgstr "Couleur de lien au survol / Couleur de fond active"
+
+#: inc/customizer.php:313
+msgid "Menu Link Hover/Active border color"
+msgstr "Couleur de lien au survol / Couleur de bordure active"
+
+#: inc/customizer.php:347
+msgid "Site Title Color"
+msgstr "Couleur de titre du site"
+
+#: inc/customizer.php:349
+msgid "Only set if you don't use an image logo."
+msgstr "Défini seulement si vous n’utilisez pas de logo"
+
+#: inc/customizer.php:362
+msgid "Responsive Menu Button Color"
+msgstr "Couleur de bouton de menu responsive"
+
+#: inc/customizer.php:380
+msgid "Background color"
+msgstr "Couleur d’arrière plan"
+
+#: inc/customizer.php:393
+msgid "Background image overlay color"
+msgstr "Couleur de couverture d’image d’arrière plan"
+
+#: inc/customizer.php:409 inc/customizer.php:1146
+msgid "Padding top"
+msgstr "Page intérieure haute"
+
+#: inc/customizer.php:411
+msgid "The page header padding top in percent (%)."
+msgstr "La marge intérieure haute d’en-tête de page en pourcentage (%)"
+
+#: inc/customizer.php:424 inc/customizer.php:1162
+msgid "Padding bottom"
+msgstr "Page intérieure basse"
+
+#: inc/customizer.php:426
+msgid "The page header padding bottom in percent (%)."
+msgstr "La marge intérieure basse d’en-tête de page en pourcentage (%)"
+
+#: inc/customizer.php:438
+msgid "Blog Settings"
+msgstr "Réglages du blog"
+
+#: inc/customizer.php:448 inc/extras.php:730 inc/extras.php:737
+msgid "The Blog"
+msgstr "Le blog"
+
+#: inc/customizer.php:453
+msgid "Blog title"
+msgstr "Titre de blog"
+
+#: inc/customizer.php:455
+msgid "Custom page header title on single posts."
+msgstr "Titre personnalisé d’en-tête de page sur les articles"
+
+#: inc/customizer.php:469
+msgid "Disable featured image in single post"
+msgstr "Désactiver l'image mise en avant dans l’article"
+
+#: inc/customizer.php:485
+msgid "Display post date"
+msgstr "Afficher la date d'article"
+
+#: inc/customizer.php:488
+msgid "Display post date on single post or posts listing page."
+msgstr "Affichage de la date sur l’article ou les archives"
+
+#: inc/customizer.php:501
+msgid "Display post author"
+msgstr "Afficher l’auteur de l’article"
+
+#: inc/customizer.php:504
+msgid "Display post author on single post or posts listing page."
+msgstr "Affichage de l’auteur sur l’article ou les archives"
+
+#: inc/customizer.php:518
+msgid "Display post comments"
+msgstr "Afficher les commentaires"
+
+#: inc/customizer.php:521
+msgid "Display post comments on single post or posts listing page."
+msgstr "Affichage des commentaires sur l’article ou les archives"
+
+#: inc/customizer.php:534
+msgid "Display post category"
+msgstr "Afficher la catégorie"
+
+#: inc/customizer.php:537
+msgid "Display post category on single post or posts listing page."
+msgstr "Affichage de la catégorie sur l’article ou les archives"
+
+#: inc/customizer.php:627
+msgid "Footer"
+msgstr "Pied"
+
+#: inc/customizer.php:643
+msgid "Footer Layout"
+msgstr "Mise en page de pied"
+
+#: inc/customizer.php:645
+msgid "Number footer columns to display."
+msgstr "Nombre de colonnes de pied à afficher"
+
+#: inc/customizer.php:651
+msgid "Disable footer widgets"
+msgstr "Désactiver les widgets de pied"
+
+#: inc/customizer.php:666
+msgid "Custom footer 2 columns width"
+msgstr "Largeur de pied personnalisé en 2 colonnes"
+
+#: inc/customizer.php:681
+msgid "Custom footer 3 columns width"
+msgstr "Largeur de pied personnalisé en 3 colonnes"
+
+#: inc/customizer.php:696
+msgid "Custom footer 4 columns width"
+msgstr "Largeur de pied personnalisé en 4 colonnes"
+
+#: inc/customizer.php:715
+msgid "Footer widgets background color"
+msgstr "Couleur d’arrière plan des widgets de pied"
+
+#: inc/customizer.php:751
+msgid "Footer widgets text color"
+msgstr "Couleur de texte des widgets de pied"
+
+#: inc/customizer.php:824
+msgid "Footer copyright background color"
+msgstr "Couleur d’arrière plan de copyright de pied"
+
+#: inc/customizer.php:842
+msgid "Footer copyright color"
+msgstr "Couleur de copyright du pied"
+
+#: inc/customizer.php:953 inc/customizer.php:971
+msgid "Frontpage Sections"
+msgstr "Sections de l’accueil"
+
+#: inc/customizer.php:986
+msgid "Hero"
+msgstr "Hero"
+
+#: inc/customizer.php:1002 inc/customizer.php:1203 inc/customizer.php:1417
+#: inc/customizer.php:1562 inc/customizer.php:1692 inc/customizer.php:1977
+#: inc/customizer.php:2174 inc/customizer.php:2362 inc/customizer.php:2549
+#: inc/customizer.php:2739
+msgid "Hide this section?"
+msgstr "Masquer cette section ?"
+
+#: inc/customizer.php:1004 inc/customizer.php:1694
+msgid "Check this box to hide this section."
+msgstr "Cochez cette case pour masquer cette section."
+
+#: inc/customizer.php:1012
+msgid "hero"
+msgstr "hero"
+
+#: inc/customizer.php:1017 inc/customizer.php:1217 inc/customizer.php:1431
+#: inc/customizer.php:1576 inc/customizer.php:1707 inc/customizer.php:1991
+#: inc/customizer.php:2188 inc/customizer.php:2376 inc/customizer.php:2563
+#: inc/customizer.php:2753
+msgid "Section ID:"
+msgstr "ID de section :"
+
+#: inc/customizer.php:1019 inc/customizer.php:1219 inc/customizer.php:1433
+#: inc/customizer.php:1578 inc/customizer.php:1709 inc/customizer.php:1993
+#: inc/customizer.php:2190 inc/customizer.php:2378 inc/customizer.php:2565
+#: inc/customizer.php:2755
+msgid "The section id, we will use this for link anchor."
+msgstr "L’id de section que nous allons utiliser pour l’ancre de lien"
+
+#: inc/customizer.php:1047
+msgid "Hero Item"
+msgstr "Élément Hero"
+
+#: inc/customizer.php:1051 inc/customizer.php:1304 inc/customizer.php:2073
+#: inc/customizer.php:2267 inc/customizer.php:2458 inc/customizer.php:2852
+msgid "[live_title]"
+msgstr "[live_title]"
+
+#: inc/extras.php:878
+msgid "Screenr is a multiuse fullscreen WordPress theme."
+msgstr "Screenr est une thème WordPress polyvalent plein écran"
+
+#: inc/customizer.php:1062
+msgid "Background Image"
+msgstr "Image d’arrière plan"
+
+#: inc/customizer.php:1070
+msgid "Content align"
+msgstr "Alignement de contenu"
+
+#: inc/customizer.php:1073
+msgid "Center"
+msgstr "Centre"
+
+#: inc/customizer.php:1074
+msgid "Left"
+msgstr "Gauche"
+
+#: inc/customizer.php:1075
+msgid "Right"
+msgstr "Droite"
+
+#: inc/customizer.php:1097 inc/customizer.php:1653
+msgid "Background Overlay Color"
+msgstr "Couleur d’arrière plan de couverture"
+
+#: inc/customizer.php:1129
+msgid "Make hero section full screen"
+msgstr "Rendre la section hero en plein écran"
+
+#: inc/customizer.php:1131
+msgid "Check this box to make hero section full screen."
+msgstr "Cochez cette case pour que la section hero soit en plein écran"
+
+#: inc/customizer.php:1148
+msgid "The slider content padding top in percent (%)."
+msgstr "La marge intérieure haute du diaporama en pourcentage (%)."
+
+#: inc/customizer.php:1164
+msgid "The slider content padding bottom in percent (%)."
+msgstr "La marge intérieure basse du contenu de diaporama en pourcentage (%)"
+
+#: inc/customizer.php:1177
+msgid "Features"
+msgstr "Fonctionnalités"
+
+#: inc/customizer.php:1187 inc/customizer.php:1401 inc/customizer.php:1546
+#: inc/customizer.php:1676 inc/customizer.php:1961 inc/customizer.php:2158
+#: inc/customizer.php:2346 inc/customizer.php:2533 inc/customizer.php:2723
+msgid "Section Settings"
+msgstr "Réglages de section"
+
+#: inc/customizer.php:1212
+msgid "features"
+msgstr "fonctionnalités"
+
+#: inc/customizer.php:1232 inc/customizer.php:1446
+msgid "Section Title:"
+msgstr "Titre de section :"
+
+#: inc/customizer.php:1246 inc/customizer.php:1460
+msgid "Section Subtitle:"
+msgstr "Sous-titre de section :"
+
+#: inc/customizer.php:1261 inc/customizer.php:1475 inc/customizer.php:2035
+#: inc/customizer.php:2420 inc/customizer.php:2605 inc/customizer.php:2797
+msgid "Section Description:"
+msgstr "Description de section :"
+
+#: inc/customizer.php:1271 inc/customizer.php:1485 inc/customizer.php:1602
+#: inc/customizer.php:1764 inc/customizer.php:2045 inc/customizer.php:2242
+#: inc/customizer.php:2430 inc/customizer.php:2615 inc/customizer.php:2807
+msgid "Section Content"
+msgstr "Contenu de section"
+
+#: inc/customizer.php:1300 inc/customizer.php:2069 inc/customizer.php:2454
+msgid "Content Items"
+msgstr "Éléments de contenu"
+
+#: inc/customizer.php:1311 inc/customizer.php:2080
+msgid "Content page"
+msgstr "Page de contenu"
+
+#: inc/customizer.php:1317
+msgid "Thumbnail type"
+msgstr "Type de miniature"
+
+#: inc/customizer.php:1320
+msgid "Featured image"
+msgstr "Image mise en avant"
+
+#: inc/customizer.php:1321
+msgid "Font Icon"
+msgstr "Icône de police"
+
+#: inc/customizer.php:1322 inc/customizer.php:1331
+msgid "SVG icon code"
+msgstr "Code d’icône SVG"
+
+#: inc/customizer.php:1326 inc/customizer.php:2090 inc/customizer.php:2095
+#: inc/customizer.php:2472 inc/customizer.php:2864
+msgid "Font icon"
+msgstr "Icône de police"
+
+#: inc/customizer.php:1333
+msgid "Paste svg icon code here"
+msgstr "Collez le code d’icône svg ici"
+
+#: inc/customizer.php:1337
+msgid "Show readmore button"
+msgstr "Afficher le bouton Lire la suite"
+
+#: inc/customizer.php:1343 inc/customizer.php:2106
+msgid "Read more text"
+msgstr "Texte pour lire la suite"
+
+#: inc/customizer.php:1345 section-parts/section-features.php:44
+#: section-parts/section-features.php:94
+msgid "Read More"
+msgstr "Lire la suite"
+
+#: inc/customizer.php:547 inc/customizer.php:1371 inc/customizer.php:2128
+#: inc/customizer.php:2503 inc/customizer.php:2645
+msgid "Layout Settings"
+msgstr "Réglages de mise en page"
+
+#: inc/customizer.php:1373 inc/customizer.php:2305 inc/customizer.php:2647
+#: inc/customizer.php:2669
+msgid "Number item per row to display."
+msgstr "Nombre d'éléments à afficher par ligne"
+
+#: inc/customizer.php:1390
+msgid "About"
+msgstr "A propos"
+
+#: inc/customizer.php:1426
+msgid "about"
+msgstr "à propos"
+
+#: inc/customizer.php:1441 section-parts/section-about.php:3
+msgid "About us"
+msgstr "A propos de nous"
+
+#: inc/customizer.php:1500
+msgid "Display page:"
+msgstr "Afficher la page :"
+
+#: inc/customizer.php:1504
+msgid "Select page to display on this section."
+msgstr "Sélectionnez une page à afficher dans cette section"
+
+#: inc/customizer.php:1517
+msgid "Page content type:"
+msgstr "Type de contenu de page :"
+
+#: inc/customizer.php:1521
+msgid "Page excerpt"
+msgstr "Extrait de page"
+
+#: inc/customizer.php:1522
+msgid "Page Content"
+msgstr "Contenu de page"
+
+#: inc/customizer.php:1524
+msgid "Select content type of page above to display on this section."
+msgstr "Sélectionnez le type de contenu de age ci dessus pour l’afficher dans cette section."
+
+#: inc/customizer.php:1535
+msgid "Video Lightbox"
+msgstr "Lightbox vidéo"
+
+#: inc/customizer.php:1571
+msgid "video"
+msgstr "vidéo"
+
+#: inc/customizer.php:1592
+msgid "Title:"
+msgstr "Titre :"
+
+#: inc/customizer.php:1594
+msgid "Short text about this section."
+msgstr "Texte court à propos de cette section"
+
+#: inc/customizer.php:1617
+msgid "Video URL:"
+msgstr "URL de vidéo :"
+
+#: inc/customizer.php:1619
+msgid "Youtube or Vimeo url, e.g: https://www.youtube.com/watch?v=xxxxx"
+msgstr "URL Youtube ou Vimeo. Ex : https://www.youtube.com/watch?v=xxxxx"
+
+#: inc/customizer.php:1635
+msgid "Parallax image:"
+msgstr "Image Parallax :"
+
+#: inc/customizer.php:1950 inc/customizer.php:2001
+msgid "Services"
+msgstr "Services"
+
+#: inc/customizer.php:1986
+msgid "services"
+msgstr "services"
+
+#: inc/customizer.php:2006 inc/customizer.php:2203 inc/customizer.php:2391
+#: inc/customizer.php:2577 inc/customizer.php:2768
+msgid "Section title:"
+msgstr "Titre de section :"
+
+#: inc/customizer.php:2015 inc/customizer.php:2585
+#: section-parts/section-news.php:3 section-parts/section-services.php:4
+msgid "Section subtitle"
+msgstr "Sous-titre de section"
+
+#: inc/customizer.php:2020 inc/customizer.php:2217 inc/customizer.php:2405
+#: inc/customizer.php:2590 inc/customizer.php:2782
+msgid "Section subtitle:"
+msgstr "Sous-titre de section :"
+
+#: inc/customizer.php:2086
+msgid "Item style"
+msgstr "Style d’élément"
+
+#: inc/customizer.php:2089
+msgid "Featured image top"
+msgstr "Image mise en avant haute"
+
+#: inc/customizer.php:2091
+msgid "No thumbnail"
+msgstr "Pas de miniature"
+
+#: inc/customizer.php:2100
+msgid "Show readmore link"
+msgstr "Afficher le lien Lire la suite"
+
+#: inc/customizer.php:2108 section-parts/section-services.php:69
+msgid "More detail &rarr;"
+msgstr "Plus de détails &rarr;"
+
+#: inc/customizer.php:2130 inc/customizer.php:2505
+msgid "Number columns to display."
+msgstr "Nombre de colonnes à afficher :"
+
+#: inc/customizer.php:2147 inc/customizer.php:2263
+msgid "Clients"
+msgstr "Clients"
+
+#: inc/customizer.php:2183
+msgid "clients"
+msgstr "clients"
+
+#: inc/customizer.php:2232
+msgid "Section description:"
+msgstr "Description de section :"
+
+#: inc/customizer.php:2274 inc/customizer.php:2464 inc/customizer.php:2859
+msgid "Title"
+msgstr "Titre*"
+
+#: inc/customizer.php:2279
+msgid "Client logo"
+msgstr "Logo de client"
+
+#: inc/customizer.php:2284
+msgid "Client URL"
+msgstr "URL de client"
+
+#: inc/customizer.php:2303
+msgid "Items layout settings"
+msgstr "Réglages de mise en page d’éléments"
+
+#: inc/customizer.php:2335
+msgid "Counter"
+msgstr "Compteur"
+
+#: inc/customizer.php:2371
+msgid "counter"
+msgstr "compteur"
+
+#: inc/customizer.php:2400 section-parts/section-counter.php:3
+msgid "Some Fun Facts about our agency?"
+msgstr "Quelques faits funs à propos de notre agence ?"
+
+#: inc/customizer.php:2468
+msgid "Number"
+msgstr "Nombre"
+
+#: inc/customizer.php:2477
+msgid "Before number"
+msgstr "Avant le nombre"
+
+#: inc/customizer.php:2481
+msgid "After number"
+msgstr "Après le nombre"
+
+#: inc/customizer.php:2485
+msgid "Custom background color"
+msgstr "Couleur d’arrière plan personnalisée"
+
+#: inc/customizer.php:2522 inc/customizer.php:2572
+#: section-parts/section-news.php:2
+msgid "Latest News"
+msgstr "Dernières nouvelles"
+
+#: inc/customizer.php:2558
+msgid "news"
+msgstr "nouvelles"
+
+#: inc/customizer.php:2630
+msgid "Number Posts:"
+msgstr "Nombre d'articles :"
+
+#: inc/customizer.php:2632
+msgid "How many posts you want to show."
+msgstr "Combien d’articles voulez vous afficher."
+
+#: inc/customizer.php:2667
+msgid "Load more posts button"
+msgstr "Bouton de Chargement de plus d’articles"
+
+#: inc/customizer.php:2671
+msgid "Ajax load"
+msgstr "Chargement Ajax"
+
+#: inc/customizer.php:2672
+msgid "Custom link"
+msgstr "Lien personnalisé"
+
+#: inc/customizer.php:2673
+msgid "Hide"
+msgstr "Masquer"
+
+#: inc/customizer.php:2686
+msgid "Custom load more button label"
+msgstr "Label personnalisé de bouton de chargement"
+
+#: inc/customizer.php:2699
+msgid "Custom load more posts link"
+msgstr "Lien personnalisé de chargement de plus d’articles"
+
+#: inc/customizer.php:2701
+msgid "Link to your posts page."
+msgstr "Lien pour vos articles"
+
+#: inc/customizer.php:2712
+msgid "Contact"
+msgstr "Contact"
+
+#: inc/customizer.php:2748
+msgid "contact"
+msgstr "contact"
+
+#: inc/customizer.php:2763 section-parts/section-contact.php:3
+msgid "Contact Us"
+msgstr "Nous contacter"
+
+#: inc/customizer.php:2777 section-parts/section-contact.php:4
+msgid "Keep in touch"
+msgstr "Restez en contact"
+
+#: inc/customizer.php:2791 section-parts/section-contact.php:5
+msgid "Fill out the form below and you will hear from us shortly."
+msgstr "Remplissez lez formulaire ci dessous et nous vous contacterons rapidement"
+
+#: inc/customizer.php:2823
+msgid "Content:"
+msgstr "Contenu :"
+
+#: inc/customizer.php:2826
+msgid "You can install any contact form plugin such as Contact Form 7 and then paste the shortcode of the form here."
+msgstr "Vous pouvez installer n’importe quelle extension de formulaire de contact comme Contact Form 7 puis collez ici le code court généré."
+
+#: inc/customizer.php:2848
+msgid "Contact Detail Items"
+msgstr "Éléments de détails de contact"
+
+#: inc/customizer.php:2869
+msgid "URL"
+msgstr "URL"
+
+#: inc/customizer.php:2871
+msgid "Custom url"
+msgstr "URL personnalisée"
+
+#: inc/customizer.php:2949
+msgid "Search"
+msgstr "Rechercher"
+
+#: inc/customizer.php:2953
+msgid "Font Awesome"
+msgstr "Font Awesome"
+
+#: inc/dashboard.php:118
+msgid "%1$s action required"
+msgid_plural "%1$s actions required"
+msgstr[0] "%1$s action nécessaire"
+msgstr[1] "%1$s actions nécessaires"
+
+#: inc/dashboard.php:120
+msgid "Screenr Theme %s"
+msgstr "Thème Screenr %s"
+
+#: inc/dashboard.php:122
+msgid "Screenr Theme"
+msgstr "Thème Screenr"
+
+#: inc/dashboard.php:125
+msgid "Screenr Dashboard"
+msgstr "Tableau de bord Screenr"
+
+#: inc/dashboard.php:144
+msgid "Welcome! Thank you for choosing %1$s! To fully take advantage of the best our theme can offer please make sure you visit our %2$s"
+msgstr "Bienvenue ! Merci d’avoir choisir %1$s ! Pour tirer pleinement avantage de ce que notre meilleur thème peut offrir, visitez notre %2$s"
+
+#: inc/dashboard.php:144
+msgid "Welcome Page"
+msgstr "Page de bienvenue"
+
+#: inc/dashboard.php:300
+msgid "Welcome to Screenr - Version %1s"
+msgstr "Bienvenue dans Screenr - Version %1s"
+
+#. #-#-#-#-#  screenr.pot (Screenr 1.1.8)  #-#-#-#-#
+#. Theme Name of the plugin/theme
+#: inc/dashboard.php:312
+msgid "Screenr"
+msgstr "Screenr"
+
+#: inc/dashboard.php:313
+msgid "Actions Required"
+msgstr "Actions nécessaires"
+
+#: inc/dashboard.php:325
+msgid "Theme Customizer"
+msgstr "Personnaliser le thème"
+
+#: inc/dashboard.php:326
+msgid "%s supports the Theme Customizer for all theme settings. Click \"Customize\" to start customize your site."
+msgstr "%s supporte la personnalisation de thème pour tous les réglages du thème. Cliquez sur \"Personnaliser\" pour commencer."
+
+#: inc/dashboard.php:328
+msgid "Start Customize"
+msgstr "Commencer la personnalisation"
+
+#: inc/dashboard.php:332
+msgid "Theme Documentation"
+msgstr "Documentation du thème"
+
+#: inc/dashboard.php:333
+msgid "Need any help to setup and configure %s? Please have a look at our documentations instructions."
+msgstr "Besoin d’aide pour configurer %s ? Jetez un oeil sur les instructions de notre doumentation."
+
+#: inc/dashboard.php:335
+msgid "Screenr Documentation"
+msgstr "Documentation de Screenr"
+
+#: inc/dashboard.php:341
+msgid "Having Trouble, Need Support?"
+msgstr "Un souci, besoin de support ?"
+
+#: inc/dashboard.php:342
+msgid "Support for %s WordPress theme is conducted through FameThemes support ticket system."
+msgstr "Le support pour le thème WordPress %s passe par le système de ticket de FameThemes."
+
+#: inc/dashboard.php:422
+msgid "Switch \"Front page displays\" to \"A static page\""
+msgstr "Basculer \"La page d’accueil affiche\" en \"Une page statique\""
+
+#: inc/dashboard.php:424
+msgid "In order to have the one page look for your website, please go to Customize -&gt; Static Front Page and switch \"Front page displays\" to \"A static page\"."
+msgstr "Tout d’abord pour avoir votre site en une page, rendez vous dans Personnaliser -&gt; Page d’accueil statique et basculez \"La page d’accueil affiche\" en \"Une page statique\"."
+
+#: inc/dashboard.php:427 inc/dashboard.php:451
+msgid "Setup front page displays"
+msgstr "Configurer l’affichage de la page d’accueil"
+
+#: inc/dashboard.php:441
+msgid "Set your homepage page template to \"Frontpage\"."
+msgstr "Définissez le modèle de la page d’accueil vers \"Page d’accueil\""
+
+#: inc/dashboard.php:444
+msgid "In order to change homepage section contents, you will need to set template \"Frontpage\" for your homepage."
+msgstr "Tout d’abord, pour ordonnez les sections de contenu d’accueil, vous devez définir le modèle \"Page d’accueil\" pour votre page d’accueil."
+
+#: inc/dashboard.php:457
+msgid "Change homepage page template"
+msgstr "Changer le modèle de la page d’accueil"
+
+#: inc/dashboard.php:467
+msgid "Keep update with %s"
+msgstr "Rester à jour avec %s"
+
+#: inc/dashboard.php:468
+msgid "Hooray! There are no required actions for you right now."
+msgstr "Il n’y a pas d’action nécessaire pour vous en ce moment."
+
+#: inc/extras.php:735
+msgid "Search Results for: %s"
+msgstr "Résultats de recherche pour : %s"
+
+#: inc/extras.php:866
+msgid "This widget area is currently disabled. You can enable it Customizer &rarr; Theme Options &rarr; Footer section."
+msgstr "Cette zone de widget est actuellement désactivée. Vous pouvez l’activer via Personnaliser &rarr; Options du thème &rarr; Section de pied."
+
+#: inc/template-tags.php:84
+msgctxt "post author"
+msgid "Author: %s"
+msgstr "Auteur : %s"
+
+#: inc/template-tags.php:93
+msgctxt "category"
+msgid "Category: %s"
+msgstr "Catégorie  : %s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:140 inc/template-tags.php:146
+msgid ", "
+msgstr ", "
+
+#: inc/template-tags.php:142
+msgid "Posted in %1$s"
+msgstr "Publié dans %1$s"
+
+#: inc/template-tags.php:148
+msgid "Tagged %1$s"
+msgstr "Étiqueté %1$s"
+
+#: inc/template-tags.php:154
+msgid "Leave a comment"
+msgstr "Laisser un commentaire"
+
+#: inc/template-tags.php:154
+msgid "1 Comment"
+msgstr "1 Commentaire"
+
+#: inc/template-tags.php:154
+msgid "% Comments"
+msgstr "% Commentaires"
+
+#. translators: %s: Name of current post
+#: inc/template-tags.php:161 template-parts/content-page.php:29
+msgid "Edit %s"
+msgstr "Modifier %s"
+
+#: inc/template-tags.php:246 template-parts/content-grid.php:40
+msgid "Read On"
+msgstr "Lire sur"
+
+#: inc/template-tags.php:322
+msgid "Pingback:"
+msgstr "Ping :"
+
+#: inc/template-tags.php:322
+msgid "(Edit)"
+msgstr "(Modifier)"
+
+#: inc/template-tags.php:341
+msgid "Post author"
+msgstr "Auteur de l’article"
+
+#. translators: 1: date, 2: time
+#: inc/template-tags.php:349
+msgid "Reply"
+msgstr "Répondre"
+
+#: inc/template-tags.php:350
+msgid "Edit"
+msgstr "Modifier"
+
+#: inc/template-tags.php:356
+msgid "Your comment is awaiting moderation."
+msgstr "Votre commentaire est en attente de validation."
+
+#: section-parts/section-news.php:68
+msgid "Read Our Blog"
+msgstr "Lisez notre blog"
+
+#: section-parts/section-news.php:71
+msgid "Load More News"
+msgstr "Charger plus de nouvelles"
+
+#: section-parts/section-services.php:3
+msgid "Our Services"
+msgstr "Nos services"
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr "Rien de trouvé"
+
+#: template-parts/content-none.php:21
+msgid "Ready to publish your first post? %1$s."
+msgstr "Prêt à publier votre 1er article ? %1$s."
+
+#: template-parts/content-none.php:21
+msgid "Get started here"
+msgstr "Commencez ici"
+
+#: template-parts/content-none.php:25
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Désolé, mais rien ne correspond à vos critères."
+
+#: template-parts/content-none.php:31
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Il semble que rien ne soit trouvé pour votre recherche."
+
+#: template-parts/content-page.php:18 template-parts/content-single.php:44
+msgid "Pages:"
+msgstr "Pages :"
+
+#: template-parts/content-search.php:29 template-parts/content.php:36
+msgid "read more"
+msgstr "lire la suite"
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:39
+msgid "Continue reading %s"
+msgstr "Lire la suite de %s"
+
+#. Template Name of the plugin/theme
+msgid "Frontpage"
+msgstr "Page d’accueil"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.famethemes.com/themes/screenr"
+msgstr "https://www.famethemes.com/themes/screenr"
+
+#. Author of the plugin/theme
+msgid "FameThemes"
+msgstr "FameThemes"
+
+#. Author URI of the plugin/theme
+msgid "https://www.famethemes.com"
+msgstr "https://www.famethemes.com"
